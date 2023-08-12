@@ -10,7 +10,6 @@
  ### Websites
   - [HTML: HyperText Markup Language - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
   <hr />
- <center>
-  <a href="http://devanshdeveloper.vercel.app/" >Made With 💖 - By Devansh Developer</a>
- </center>
- 
+  <div style="display: flex; justify-content: center;">
+  <a href="http://devanshdeveloper.vercel.app/">Made With 💖 - By Devansh Developer</a>
+ </div>
